@@ -1,0 +1,15 @@
+1. Creating NumPy Arrays
+Create a NumPy array using a Python list [15, 25, 35, 45]. Print its type and number of dimensions.
+Create a 2D NumPy array of size 2×4 using nested lists.
+2. Built-in Array Creation Functions
+Create an array of zeros with shape (2, 3) and an array of ones with shape (4, 2).
+Generate an array from 5 to 25 with step 5 and an array of 6 evenly spaced numbers between 0 and 30.
+3. Random Number Arrays
+Generate 6 random numbers between 0 and 1 and a 2×5 matrix of random integers between 10 and 50.
+Create a 3×3 matrix with random values from a normal distribution and a single random integer between 1 and 20.
+4. Array Attributes
+Create a 2D array and find its shape, size, and data type.
+Create a 4×3 array, reshape it into 2×6, and flatten it.
+5. Indexing and Slicing
+Given an array [5, 15, 25, 35, 45], extract the first, last, and elements from index 2 to 4.
+For a 4×4 matrix, extract the third row, second column, and submatrix (last 2 rows & first 2 columns).
